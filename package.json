@@ -1,0 +1,31 @@
+{
+  "name": "foursquare_categories",
+  "version": "1.0.0",
+  "description": "foursquare categories",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint .",
+    "test": "node index.js"
+  },
+  "eslintConfig": {
+    "extends": "google"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adviceinteractivegroup/foursquare_categories.git"
+  },
+  "keywords": [
+    "foursquare",
+    "advice",
+    "interactive"
+  ],
+  "author": "Advice Interactive",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adviceinteractivegroup/foursquare_categories/issues"
+  },
+  "homepage": "https://github.com/adviceinteractivegroup/foursquare_categories#readme",
+  "dependencies": {
+    "eslint": "^3.19.0"
+  }
+}
