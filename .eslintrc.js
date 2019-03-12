@@ -90,7 +90,6 @@ module.exports = {
     'no-new-require': 2,
     'no-path-concat': 2,
     'no-process-exit': 0,
-    'indent': [2, 2, {'SwitchCase': 0}],
     'brace-style': [2, '1tbs'],
     'camelcase': 0,
     'comma-spacing': [2, {'before': false, 'after': true}],
